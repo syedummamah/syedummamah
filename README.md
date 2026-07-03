@@ -19,4 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedummamah&show_icons=true&locale=en&layout=compact" alt="syedummamah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedummamah&show_icons=true&locale=en" alt="syedummamah" /></p>
-(how to make it more better ?)
